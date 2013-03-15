@@ -1,0 +1,270 @@
+﻿ P <choline acétyltransférase> <= 3, P <choline acétyltransférase> <= 2, L <CBP histone acétyl transférase> <= 5
+ L <eure (département)> <= 59, P <tournan-en-Brie> <= 3, P <château De Bercy> <= 2
+ P <l'Armée des morts> <= 3, P <george Andrew Romero> <= 3, P <saga des zombies> <= 1
+ P <cintra> <= 4, L <sol do Brasil> <= 93, L <belco> <= 73
+ L <square Grangé> <= 3, P <académie contemporaine> <= 3, L <rue des Frigos> <= 60
+ L <utilisateur:Hervée> <= 18, L <user_Talk:Eden2004> <= 56, L <catégorie:Conseil d'État> <= 98
+ L <oilers d'Edmonton> <= 3, P <saison LNH 1991-1992> <= 1, L <compuware Spitfires de Windsor> <= 61
+ P <aspull, Greater Manchester> <= 3, L <standish, Greater Manchester> <= 63, L <new Springs> <= 34
+ P <Équipe de Bolivie de football à la coupe du monde 1930> <= 2, L <mikey Sheehy> <= 4, L <valence HB‎> <= 32
+ L <hausen am Albis> <= 100, P <lupfig> <= 2, L <hausen bei Brugg> <= 38
+ L <abbaye d'Einsiedeln> <= 97, P <abbaye d'Einsiedeln> <= 3, L <silke Schwager-Braun> <= 54
+ P <leroy Merlin> <= 2, L <bricoman> <= 19, L <essers> <= 53
+ P <richie Farrell> <= 4, P <logiciel privateur> <= 4, P <gsview> <= 2
+ L <modèle:LCF GARE2exBleu Rouge> <= 17, L <discussion modèle:LCF GARE+CRSs/Suppression> <= 14, L <discussion modèle:LCF GARTdbt/Article de qualité> <= 87
+ L <1922> <= 57, L <dictature militaire> <= 97, P <liste des chefs d’Etat argentins> <= 2
+ L <thierry Forte> <= 72, P <1996 au cinéma> <= 3, L <fuego Eterno> <= 97
+ P <catégorie:Commune de la Dordogne> <= 2, L <war:Antonne-et-Trigonant> <= 47, L <ceb:Antonne-et-Trigonant> <= 46
+ P <alacakaya> <= 2, P <maden (Elazığ)> <= 3, L <keban> <= 14
+ P <france> <= 4, L <deloitte Touche Tohmatsu> <= 97, P <nap:Bic> <= 2
+ P <palatul de Finanţe din Cluj-Napoca> <= 4, L <palatul Prefecturii din Cluj-Napoca> <= 36, L <palatul Arhiepiscopiei Ortodoxe din Cluj-Napoca> <= 29
+ L <littorello-Eleocharitetum acicularis> <= 67, L <gazon> <= 55, L <deschampsietum rhenanae> <= 35
+ P <Épidémie de méningite en Afrique de l'Ouest de 2009-2010> <= 4, P <Épidémie> <= 1, L <discuter:Épendyme> <= 91
+ L <152 (nombre)> <= 93, P <tA-TI> <= 4, L <1597 (nombre)> <= 79
+ P <simple:September 12> <= 4, P <h. Ghéon> <= 4, L <angela Petrelli> <= 33
+ P <territoires du Nord-Ouest> <= 3, P <territoires du Nord-Ouest> <= 4, L <mont Olympus (Alberta)> <= 7
+ P <landvogt> <= 2, L <massif des Vosges> <= 62, L <baldeck> <= 27
+ P <utilisateur:VIGNERON> <= 3, L <discussion Utilisateur:Wanderer999> <= 49, L <discuter:Rémi Gaillard/Suppression> <= 65
+ L <saint Venerio> <= 28, L <408> <= 10, L <saint Martiniano> <= 10
+ P <vaisseau sanguin> <= 2, L <discuter:Vaisseau lymphatique> <= 43, L <discuter:Valeurs de référence pour les principaux tests biologiques/À faire> <= 45
+ L <1979> <= 30, P <catégorie:Opel> <= 2, P <bitter CD> <= 1
+ L <Évangiles> <= 72, P <liste des archevêques de Lyon> <= 2, P <irénée de Lyon> <= 1
+ P <pipit spioncelle> <= 3, P <sanglier> <= 4, L <pinçon> <= 98
+ P <1847> <= 2, L <1907> <= 4, P <elizabeth Priscilla Cooper> <= 2
+ P <find> <= 3, L <gNU finger> <= 73, L <tftp> <= 71
+ P <1973> <= 4, L <los ojos> <= 99, L <spinettalandia y sus amigos> <= 5
+ L <winter Games> <= 39, P <ufouria: The Saga> <= 2, L <wheel of Fortune : Junior Edition> <= 66
+ P <gymnocadus> <= 2, L <quelque chose dans mon cœur> <= 46, L <grisolles> <= 21
+ L <australie-Méridionale> <= 36, P <missouri (État)> <= 4, P <alton (Kansas)> <= 2
+ L <château Kövér-Appel de Fântânele> <= 33, P <château Purgly de Şofronea> <= 4, L <odvoş (Arad)> <= 78
+ P <l'Invasion vient de Mars> <= 4, P <charan> <= 3, L <catégorie:Cours d'eau de Bachkirie> <= 100
+ P <cité du train> <= 1, L <bergerac (Dordogne)> <= 69, L <musée sundgauvien> <= 97
+ P <craonne> <= 4, P <bailliage de la duché-pairie de Guise> <= 4, P <bailliage de Villers-Cotterêts> <= 2
+ L <piste des Larmes> <= 47, P <chambre des représentants d'Antigua-et-Barbuda> <= 3, P <réserve de Cattaraugus> <= 3
+ P <agave spicata> <= 3, P <agave stricta> <= 4, L <agave stringens> <= 55
+ P <thysanotus patersonii> <= 3, L <thysanotus gracilis> <= 47, L <thysanotus vernalis> <= 59
+ P <1998> <= 2, P <jardins Du Partal> <= 4, P <patrick Cruel> <= 2
+ L <1926> <= 13, P <1921> <= 3, L <monique Doyen> <= 40
+ P <liste de personnalités militaires françaises contemporaines> <= 3, L <françoise Dufour> <= 25, L <françoise Duchesne> <= 59
+ L <hyperdub> <= 92, P <mRK1> <= 2, L <rinse FM> <= 96
+ P <perlat Musta> <= 4, P <catégorie:Football en Albanie> <= 4, P <catégorie:Entraîneur albanais de football> <= 1
+ P <(1165) Imprinetta> <= 3, P <(1627) Ivar> <= 3, P <(133) Cevenola> <= 2
+ P <fr:Emilio Cornalia> <= 2, P <fr:James Graham> <= 3, P <de:Emmanuel Drake del Castillo> <= 2
+ P <weat American striate mosaic virus> <= 4, P <jsé Manuel Moreno> <= 2, P <boris Maric> <= 2
+ P <catégorie:Champion tennis titré à Wimbledon> <= 4, P <catégorie:Tennis masculin en 1983> <= 3, P <discussion Catégorie:Tennis féminin en 2008> <= 2
+ P <diane Keaton> <= 2, P <restoroute> <= 3, P <g. Clutaru> <= 3
+ P <scott S. Sheppard> <= 3, P <discuter:Pierre-Antone Mougin> <= 5, P <discuter:Margaret Turnbull> <= 2
+ P <Gerfaut (série télévisée)> <= 2, P <château Saint-Elme> <= 4, P <pierre Montel> <= 2
+ P <vtaïev> <= 3, P <nikonov> <= 3, P <doov> <= 2
+ P <bW> <= 4, P <le Principe responsabilité> <= 5, P <arbre Des Technologies> <= 3
+ P <lucius Lucceius> <= 4, P <déforestaton> <= 4, P <lucius Pinarius Scarpus> <= 2
+ L <comté d'Albany (New York)> <= 24, L <bethlehem, New York> <= 34, L <comté d'Ohio (Virginie-Occidentale)> <= 23, P <comté d'Albany (New York)> <= 3, L <bethlehem (Pennsylvanie)> <= 45, L <bethlehem (Virginie-Occidentale)> <= 36, P <bethlehem (Pennsylvanie)> <= 3, P <bethlehem, West Virginia> <= 2, L <new York (État)> <= 18, L <bethlehem (Jesus music)> <= 38
+ P <gungrave: Overdose> <= 3, P <gunslinger Girl Vol. II> <= 3, L <the Guy Game> <= 48, P <gunvari Collection & Time Crisis> <= 3, P <gungrave: Overdose> <= 2, L <gunslinger Girl Vol. I> <= 29, P <gunslinger Girl Vol. I> <= 3, P <gunvari Collection & Time Crisis> <= 2, P <gunslinger Girl Vol. II> <= 2, L <gunslinger Girl Vol. III> <= 6
+ L <1987> <= 1, L <1981> <= 30, P <1988> <= 3, L <1983> <= 39, P <1989> <= 1, P <1982> <= 1, P <iwona Kowalewska> <= 3, L <1992> <= 10, L <1986> <= 48, L <dorota Idzi> <= 41
+ L <musaraigne> <= 5, P <lapin> <= 3, L <sanglier> <= 44, P <blaireau européen> <= 2, L <fouine> <= 38, P <blaireau européen> <= 3, L <campagnol> <= 47, L <chauve-souris> <= 35, L <renard> <= 4, P <ceb:Fontvieille> <= 2
+ P <discussion:Rhombicosidodécaèdre gyrobidiminué> <= 2, P <rhombicosidodécaèdre diminué> <= 2, L <discussion:Rhombicosidodécaèdre bigyrodiminué> <= 11, L <rhombicosaèdre> <= 20, L <discussion:Rhombicosaèdre> <= 13, L <rhombicosidodécaèdre métabidiminué> <= 41, L <rhombicosidodécaèdre gyrobidiminué> <= 46, P <discussion:Rhombicosidodécaèdre bigyrodiminué> <= 3, P <discussion:Rhombicosidodécaèdre métabidiminué> <= 3, L <discussion:Rhombicosidodécaèdre diminué> <= 8
+ L <madrid> <= 12, L <1922> <= 27, P <union des républiques socialistes soviétiques> <= 3, P <chimera (musique)> <= 3, L <1936> <= 17, P <1927> <= 3, L <séville> <= 17, L <2 juin> <= 48, P <musée Thyssen-Bornemisza> <= 2, L <banque d'Espagne> <= 25
+ L <sP Domagnano> <= 42, P <championnat de Saint-Marin de football> <= 3, P <supercoupe de Saint-Marin de football> <= 2, L <sP La Fiorita> <= 25, L <sC Faetano> <= 3, L <aC Juvenes/Dogana> <= 8, P <aC Juvenes/Dogana> <= 3, P <saint-Marin> <= 2, L <sP Tre Fiori> <= 31, P <championnat de Saint-Marin de football 1986-1987> <= 1
+ P <la Jungle en folie> <= 2, P <la Jungle en folie> <= 3, L <la Ligne de front (Larcenet)> <= 6, P <la Nuit des sorciers> <= 3, P <la Fiancée de Lucky Luke> <= 3, L <la Guérison des Dalton> <= 18, L <la Flûte à six schtroumpfs (bande dessinée)> <= 48, L <la Légende de l'Ouest> <= 28, L <la Horde du corbeau> <= 8, P <quéquette blues> <= 3
+ L <2005> <= 5, L <1998> <= 16, P <1990> <= 2, P <20 mai> <= 1, L <��tats-Unis> <= 22, P <8 décembre> <= 3, L <boris Eltsine> <= 45, P <années 1980> <= 2, L <1972> <= 44, L <privatisations> <= 47
+ L <johannes Kelpius> <= 8, L <john Byng> <= 50, L <john Berkeley (1663-1697)> <= 32, P <john Bertrand> <= 2, P <jimmy Pahun> <= 3, P <john Byron> <= 3, L <jo Le Guen> <= 49, L <john Bowes (vraquier)> <= 15, L <john Brown & Company> <= 18, L <jetée (architecture)> <= 24
+ P <bataille de Stavishchy> <= 2, P <bataille de Stavishchy> <= 3, L <bataille de Shepelevichy> <= 42, L <bataille de Shklow (1664)> <= 9, L <bataille de Verki> <= 49, L <bataille de Tchoudniv> <= 4, L <bataille de Vitebsk> <= 14, P <bataille de Vitebsk> <= 2, P <bataille de Barysaw> <= 2, L <bataille de Lyubar> <= 29
+ L <1987 à la télévision> <= 25, L <21 Jump Street> <= 37, L <2002 au cinéma> <= 47, P <2002 au cinéma> <= 2, L <1988 à la télévision> <= 45, P <21 Jump Street> <= 3, L <1989 à la télévision> <= 13, L <the Beachcombers> <= 19, L <highlander> <= 46, L <le Ranch de l'espoir> <= 41
+ P <christian Alder> <= 3, L <marcel Busch> <= 12, L <festus Agu> <= 41, P <andreas Mayer> <= 2, L <martin Braun> <= 44, P <martin Braun> <= 3, L <dieter Hoeness> <= 28, L <tobias Linse> <= 26, L <helmut Dietterle> <= 15, P <moses Sichone> <= 2
+ L <nicole Kidman> <= 29, L <1996> <= 47, L <scientologie> <= 30, L <katie Holmes> <= 39, L <1995> <= 44, P <sN 1921B> <= 3, P <nicole Kidman> <= 2, L <tom Cruise> <= 2, P <iron Maiden> <= 2, L <oussama Ben Laden> <= 16
+ L <2003> <= 5, L <2005> <= 4, L <6 décembre> <= 22, P <1960> <= 3, L <1987> <= 17, P <bustelo (Cinfães)> <= 3, P <2006> <= 1, L <1994 en sport> <= 26, P <fox Cove-Mortier> <= 3, L <catégorie:Joueur de l'Étoile rouge de Belgrade> <= 46
+ L <1991> <= 30, L <serbe> <= 24, P <1991> <= 2, L <croates> <= 48, L <bosnie-Herzégovine> <= 41, L <république serbe de Bosnie> <= 45, L <parti démocratique serbe> <= 37, P <predolje> <= 3, P <meča> <= 2, P <berkovići> <= 1
+ P <harry Somers> <= 2, P <harry Somers> <= 3, L <le Corbeau (film, 1963)> <= 4, P <le Corbeau (film, 1963)> <= 2, P <day the World Ended> <= 2, L <la Chambre des tortures (film, 1961)> <= 13, L <harry Homer> <= 23, P <harry Ayers> <= 3, L <championnat d'Allemagne de hockey sur glace 1995-1996> <= 28, L <harry Parke> <= 23
+ P <athlétisme> <= 3, P <50e corps d'armée (URSS)> <= 3, L <décathlon> <= 48, P <1 500 mètres (athlétisme)> <= 1, L <marathon (sport)> <= 24, P <athlétisme aux Jeux olympiques d'été de 2000> <= 1, L <championnats du monde d'athlétisme 1983> <= 48, P <championnats du monde de semi-marathon 2003> <= 2, P <noah Ngeny> <= 3, P <championnats d'Amérique centrale et des Caraïbes d'athlétisme 1987> <= 3
+ P <château de Labro> <= 3, P <abbaye de Loc-Dieu> <= 2, L <château de Cornusson> <= 39, L <château de Salvagnac> <= 40, L <villefranche-de-Rouergue> <= 23, P <château de Labro> <= 2, L <abbaye de Beaulieu-en-Rouergue> <= 32, L <figeac> <= 31, L <grotte de Foissac> <= 42, L <château de Graves> <= 26
+ L <hedwig and the Angry Inch> <= 24, P <hedwig and the Angry Inch> <= 3, P <discuter:Harry Benjamin/À faire> <= 3, P <discuter:Hamish Buchanan/À faire> <= 3, P <discuter:Hamish Buchanan> <= 3, P <discuter:Harvey Milk> <= 3, L <discuter:Harry Benjamin> <= 42, L <discuter:Hans Warren> <= 39, L <hardcorps> <= 21, P <discuter:Camille Barré/À faire> <= 2
+ P <kąty> <= 2, L <górki Borze> <= 8, L <górki Grubaki> <= 47, P <kąty> <= 3, L <górki Średnie> <= 7, L <korytnica (Powiat de Węgrów)> <= 32, L <połazie Świętochowskie> <= 26, L <maksymilianów> <= 12, P <kruszew> <= 2, P <roguszyn> <= 2
+ L <arizona> <= 5, L <united States Fish and Wildlife Service> <= 21, P <national Park Service> <= 2, L <californie> <= 38, P <arizona> <= 3, P <nouveau-Mexique> <= 2, P <plan-de-Baix> <= 3, L <walnut Canyon National Monument> <= 43, P <world War II Valor in the Pacific National Monument> <= 2, L <white Sands> <= 39
+ L <kim Newman> <= 44, L <territoires (roman)> <= 28, L <perceval et le Dragon d'Airain> <= 16, P <gisèle Schmidt> <= 3, P <territoires (roman)> <= 2, P <l'Apprenti sorcier (film, 2010)> <= 3, P <perceval et le Dragon d'Airain> <= 3, L <le Spectre de Shannara> <= 18, L <seigneur des Ténèbres (Disney)> <= 22, P <discussion:The Elder Scrolls IV: Knights of the Nine> <= 2
+ L <discuter:Bernard Chenot> <= 36, L <discuter:Bataillons d'infanterie légère d'Afrique> <= 34, P <discuter:Bernard Chenot> <= 2, P <bernard Edelman> <= 3, L <discuter:Bâtonnier Charpentier> <= 19, P <discuter:Bataillons d'infanterie légère d'Afrique/À faire> <= 2, L <discuter:Bâtonnier Charpentier/À faire> <= 11, P <discuter:Bastille (Paris)> <= 2, P <discuter:Bernard Lazare> <= 2, L <discuter:Bernard Edelman> <= 23
+ L <aérodrome de Chavenay> <= 48, P <discussion:Aérodrome de Chavenay/Suppression> <= 2, P <discussion:Aérodrome De Chavenay/Article de qualité> <= 3, P <aérodrome de Chavenay> <= 2, L <discussion:Aérodrome De Chavenay/Droit d'auteur> <= 16, L <discussion:Aérodrome De Chavenay> <= 41, L <discussion:Aérodrome De Chavenay/Suppression> <= 28, L <discussion:Aérodrome De Chavenay/Bon article> <= 5, P <avron (métro de Paris)> <= 3, L <discussion:Aérodrome de Chavenay - Villepreux> <= 32
+ P <tipTop> <= 2, P <rocket Mania> <= 2, L <talismania> <= 22, L <word Harmony> <= 47, L <wordStalk> <= 45, L <plants vs. Zombies> <= 45, P <plants vs. Zombies> <= 2, L <typer Shark> <= 15, L <psychoballs> <= 42, L <pizza Frenzy> <= 45
+ L <adam Mitchell> <= 16, P <tore Vikingstad> <= 2, P <adam Mitchell> <= 2, L <chris Herperger> <= 10, L <klaus Kathan> <= 18, P <nikolai Goc> <= 3, L <andre Reiss> <= 48, L <patrick Köppchen> <= 15, L <peter Baumgartner> <= 38, L <marvin Krüger> <= 32
+ L <elendil> <= 26, P <faramir> <= 2, P <intendants du Gondor> <= 1, P <tar-Atanamir> <= 2, L <handir> <= 40, L <araval> <= 32, P <hunthor> <= 2, L <hador> <= 43, P <amrod> <= 3, P <ibâl> <= 2
+ L <utilisateur:Didup> <= 39, P <utilisateur:Aoineko> <= 3, P <utilisateur:Alvaro> <= 2, L <utilisateur:Greudin> <= 37, P <utilisateur:HasharBot> <= 2, L <utilisateur:Florian> <= 29, P <utilisateur:Den fjättrade ankan> <= 2, L <utilisateur:MagicTom> <= 24, P <utilisateur:Florian> <= 2, L <utilisateur:Bardamu> <= 30
+ P <1831> <= 2, P <paris> <= 3, P <royaume-Uni> <= 2, L <��tats-Unis> <= 23, L <france> <= 33, P <paris> <= 2, P <france> <= 3, L <alexandre Dalton> <= 26, P <phare de Gatteville> <= 3, P <halichoeres ornatissimus> <= 3
+ L <catégorie:Entreprise finlandaise de la mode vestimentaire> <= 49, L <discussion Catégorie:Entreprise finlandaise de la mode vestimentaire> <= 11, L <catégorie:Entreprise fondée en 1727> <= 12, L <discussion Catégorie:Entreprise ferroviaire japonaise> <= 37, L <discussion Catégorie:Entreprise ferroviaire marocaine> <= 43, P <catégorie:Entreprise finlandaise> <= 3, L <discussion Catégorie:Entreprise ferroviaire italienne> <= 29, L <discussion Catégorie:Entreprise fondée en 1789> <= 42, P <discussion Catégorie:Entreprise fondée en 1802> <= 2, L <discussion Catégorie:Entreprise fondée en 1799> <= 47
+ L <discuter:Transport au Japon> <= 3, P <discuter:Transport au Mexique> <= 2, P <discuter:Transport au Japon> <= 3, L <discuter:Transport au Maroc/À faire> <= 34, L <transport au Mexique> <= 41, L <transport au Japon> <= 28, P <discuter:Transport au Mexique> <= 3, L <transport au Maroc> <= 9, L <transport au Pakistan> <= 28, L <transport au Royaume-Uni> <= 28
+ P <discuter:Salomon de Brosse/À faire> <= 2, L <discuter:Sac du Palatinat/À faire> <= 7, L <salon littéraire> <= 10, P <salomon de Brosse> <= 2, P <rue des Grands-Augustins> <= 3, P <hôtel des Invalides> <= 2, P <discuter:Samuel Bochart> <= 3, P <discuter:Sébastien Le Balp> <= 2, L <rue du Temple> <= 50, L <sébastien Cramoisy> <= 47
+ P <fabio Troiano> <= 2, L <alfredo Pea> <= 16, P <alfredo Pea> <= 3, L <jun Ichikawa> <= 8, P <micaela Ramazzotti> <= 2, L <lorenza Indovina> <= 43, L <guilia Michelini> <= 33, P <guilia Michelini> <= 2, L <luciano Scarpa> <= 19, L <gea Lionello> <= 49
+ L <liliput> <= 10, L <stereo Total> <= 33, P <elliott Smith> <= 3, P <the Decemberists> <= 2, P <deerhoof> <= 3, L <the Paper Chase (groupe)> <= 47, L <kleenex> <= 28, L <sleater-Kinney> <= 16, L <gravy Train!!!!> <= 42, L <the Casual Dots> <= 13
+ L <championnat de Belgique de football> <= 45, P <1955> <= 2, L <championnat de Belgique de football D2> <= 6, L <belgique> <= 20, L <seconde Guerre mondiale> <= 7, P <planètes à gogos> <= 3, P <projet:Football/Index/T> <= 3, P <championnat de Belgique de football D3 1927-1928> <= 3, P <championnat de Belgique de football D2 1933-1934> <= 3, P <turnhoutse SK Hand-In-Hand> <= 1
+ L <chicago> <= 32, L <san Francisco> <= 24, P <��tats-Unis> <= 1, P <��tats-Unis> <= 3, P <chicago> <= 3, L <2001> <= 37, P <new York> <= 1, P <��tats-Unis> <= 2, L <16 juin> <= 3, P <narnack Records> <= 2
+ L <discuter:Nicolás Pareja> <= 47, L <nicolás Pareja> <= 27, L <discuter:Nicolas Ouédec> <= 22, P <discuter:Nicolas Ouédec/À faire> <= 2, L <discuter:Nicolas Penneteau/À faire> <= 23, L <discuter:Nicolás Peric> <= 21, L <nicolas Penneteau> <= 30, P <discuter:Nicolas Marin/À faire> <= 3, L <discuter:Nicolas Marx> <= 44, L <discuter:Nicolas Pallois/À faire> <= 42
+ L <bitucus> <= 24, P <belenus> <= 2, L <bibaculus> <= 17, P <belletor> <= 3, P <bellicus> <= 2, L <bonosus> <= 48, L <bellator> <= 27, P <bellus> <= 2, P <belletor> <= 2, L <bato> <= 36
+ P <rock> <= 3, P <portail:Lorraine/Photographie-0105> <= 3, P <portugal> <= 3, L <musique populaire> <= 9, L <brésil> <= 11, P <ludwig van Beethoven> <= 2, P <pont> <= 3, L <pop (musique)> <= 27, P <libéral Bruant> <= 2, P <aileron (architecture)> <= 2
+ L <tamara Drewe (bande dessinée)> <= 45, P <robert Crumb> <= 3, P <michael Moorcock> <= 3, L <mervyn Peake> <= 48, L <jerome Charyn> <= 31, P <rébéna> <= 3, P <jerome Charyn> <= 2, P <michael Moorcock> <= 2, L <posy Simmonds> <= 15, L <alison Bechdel> <= 20
+ P <avicenne> <= 3, P <psychologie> <= 3, P <italie> <= 2, L <alchimie> <= 50, P <italie> <= 3, L <médecin> <= 2, L <moyen Âge> <= 29, L <médecine dans la civilisation islamique> <= 37, P <commode (empereur)> <= 3, L <galien> <= 8
+ L <relations entre l'Irlande et le Luxembourg> <= 3, L <relations entre la Grèce et le Luxembourg> <= 46, P <relations entre la Finlande et le Luxembourg> <= 2, P <relations entre la Hongrie et le Luxembourg> <= 2, L <relations entre l'Allemagne et le Luxembourg> <= 15, L <relations entre la Lituanie et la Pologne> <= 33, L <relations entre le Luxembourg et la Pologne> <= 22, P <relations entre la Lituanie et la République tchèque> <= 2, P <relations entre la Lituanie et la Pologne> <= 2, L <relations entre la Lituanie et le Luxembourg> <= 21
+ P <omaha (Nebraska)> <= 3, P <massacre de Wounded Knee> <= 3, P <omaha (Nebraska)> <= 2, L <nebraska> <= 39, L <big Foot> <= 11, P <15 décembre> <= 3, L <1890> <= 21, P <projet:Mexique/Liste d'articles sur le Mexique> <= 3, P <christianisme> <= 2, P <renouveau amérindien> <= 2
+ L <thomas D. Green> <= 40, L <jack Kerr> <= 22, L <frank Maurice Stinson Jenkins> <= 4, P <jack Kerr> <= 2, P <nelson Porter> <= 2, L <ernest Taylor> <= 14, P <jack Kerr> <= 3, P <thomas D. Green> <= 2, L <goegre Young> <= 35, P <saison 1884 des Sénateurs d'Ottawa> <= 1
+ P <un feu dévore un autre feu> <= 2, L <chapeau bas> <= 37, L <le bureau des mariages> <= 24, L <le fin des asiles> <= 41, P <l'École des pères> <= 3, L <jour> <= 19, P <qui j'ose aimer> <= 2, P <un feu dévore un autre feu> <= 3, P <le bureau des mariages> <= 3, L <le Démon de minuit> <= 41
+ L <aurearenophyceae> <= 35, L <phaeophyceae> <= 14, P <chromalveolata (classification phylogénétique)> <= 2, L <stramenopiles> <= 30, P <chromalveolata (classification phylogénétique)> <= 3, L <heterokonta> <= 14, L <pseudodendromonadidae> <= 25, L <blastocystis> <= 32, P <phaeista> <= 2, L <phaeistia> <= 39
+ P <bernard Accoyer> <= 2, L <2008> <= 38, L <1945> <= 33, P <torture> <= 2, L <2010> <= 44, P <devoir de mémoire> <= 3, P <dVD> <= 2, L <haute-Savoie> <= 39, P <1944> <= 2, P <walter Bassan> <= 2
+ P <gare de Saint-Marcel-en-Dombes> <= 3, L <gare de Saint-Martin-du-Mont> <= 8, P <gare de Seyssel-Corbonod> <= 3, P <gare de Saint-Martin-du-Mont> <= 3, L <gare de Pougny-Chancy> <= 27, P <gare de Saint-André-de-Corcy> <= 3, P <gare de Bourg-en-Bresse> <= 2, L <gare de Pont-d'Ain> <= 43, L <gare de Culoz> <= 44, L <gare de Saint-Rambert-en-Bugey> <= 21
+ L <uruguay> <= 44, P <montevideo> <= 3, P <1945> <= 3, P <gênes-Nice> <= 3, L <1954> <= 34, L <tegucigalpa> <= 47, L <1960> <= 20, P <rollin Osterweis> <= 3, L <1978> <= 41, P <la Tribuna (Italie)> <= 2
+ P <denis Diderot> <= 5, P <modèle:Hors-sujet> <= 2, P <portail:Travail et métiers/Citations/Introduction> <= 3
+ P <congruence sur les entiers> <= 3, P <187 (nombre)> <= 5, P <multiple (art)> <= 3
+ P <discuter:Frank Swift> <= 2, P <fabrice Fiorèse> <= 5, P <discuter:France 98> <= 2
+ P <discuter:Jure Natek/À faire> <= 4, P <martin Derganc> <= 3, P <discuter:Ivana Kobilca> <= 2
+ P <clube de Rugby de Arcos de Valdevez> <= 5, P <kliment Voroshilov (char)> <= 2, P <anoropallene> <= 3
+ P <le Gerfaut (série télévisée)> <= 2, P <château Saint-Elme> <= 4, P <pierre Montel> <= 2
+ P <l'Âge des ténèbres> <= 5, P <syrrhopus caryophyllaceus> <= 4, P <eleutherodactylus bakeri heminota> <= 2
+ P <theatre de l'Odeon> <= 5, P <liste de compositeurs italiens de musique classique> <= 3, P <amas de la Vierge> <= 2
+ P <myron Goldsmith> <= 3, P <le Nazi De La Soupe> <= 5, P <luigi Rovere> <= 2
+ P <1984> <= 5, P <alexandre III de Russie> <= 3, P <catégorie:Revue littéraire> <= 2
+ P <charlie Muffin> <= 4, P <culture de l'Arménie> <= 3, P <discuter:Tsoghamarg/À faire> <= 2
+ P <organisation des Nations unies pour l'éducation, la science et la culture> <= 5, P <jacques Henri de Bourbon> <= 4, L <indes occidentales> <= 92
+ P <bruno Blanchet> <= 2, P <la Cène (Girbaud)> <= 2, P <nah:Yeshua Christós> <= 2
+ P <prasinocyma albisticta> <= 4, P <statistiques et records de la Juventus Football Club> <= 2, P <frp:14 janviér> <= 2
+ P <championnat de France de football D2 1958-59> <= 2, P <velimir Naumović> <= 3, P <al Ahly (homonymie)> <= 2
+ P <power Pro Kun Pocket 3> <= 3, P <damnation (jeu vidéo)> <= 3, P <noLimits RollerCoaster> <= 2
+ P <otto-Versand> <= 3, P <café> <= 5, P <brestov (distrit Prešov)> <= 3
+ P <fMT 95.2 programme Europe 2> <= 5, P <maasaï> <= 2, P <portail:Patrimoine mondial/Image/19> <= 2
+ P <regina Carter> <= 2, P <the Jet Set> <= 3, P <o.D.B. EP> <= 2
+ P <chat de Temminck> <= 3, P <commons:Category:Aves> <= 5, P <thecostraca (classification phylogenetique)> <= 3
+ P <marxisme> <= 4, P <politique sous la Restauration> <= 3, P <union des russes de Lituanie> <= 3
+ P <12 mars> <= 4, P <bertrade de Laon> <= 3, L <1150> <= 51
+ P <code de Théodose> <= 4, P <flavius Honorius> <= 3, P <en:Category:Chronicles> <= 3
+ P <carothèque> <= 2, P <néotropique> <= 3, P <vec:Categoria:Antartide> <= 3
+ P <catégorie:Utilisateur as-1> <= 5, P <catégorie:Décès en 153> <= 3, P <catégorie:Dépistage de maladie génétique> <= 2
+ P <Édit de Nemours> <= 5, P <bell> <= 3, P <monnaie dans Harry Potter> <= 2
+ P <discussion Catégorie:Tennis masculin en 1971> <= 4, P <discussion Catégorie:Tennis masculin en 1984> <= 5, P <discussion Catégorie:Open Languedoc-Roussillon> <= 2
+ P <ramire Ier d'Aragon> <= 2, P <département français> <= 4, P <duché de  Gascogne> <= 3
+ P <les Épaves de Tycho> <= 3, P <the Fall: Last Days of Gaia> <= 4, P <discussion:Torpille à photons> <= 2
+ P <(4242) Brecher> <= 4, P <(4117) Wilke> <= 5, P <(4449) Sobinov> <= 2
+ P <new York> <= 3, P <xenoturbella> <= 5, P <sander´s White (rose)> <= 3
+ P <esprit de Noël> <= 4, P <sept dons du Saint-Esprit> <= 3, P <diocèse de Gravelbourg> <= 2
+ P <18 juillet> <= 2, P <strada Statale 9> <= 4, P <couvent des Jacobins (Toulouse)> <= 2
+ P <oPA> <= 5, P <jaime Hernandez> <= 3, P <liste des publications par editeurs - Le Lombard - Z> <= 3
+ P <jean Tarride> <= 5, P <montfort (Pyrénées-Atlantiques)> <= 5, L <ernst Lubitsch> <= 41
+ P <philippe Galland> <= 2, P <philippe Hilbert> <= 5, P <philippe Blot> <= 2
+ P <katharine Hepburn> <= 2, P <1927 au cinéma> <= 5, P <the Show-Off> <= 2
+ P <6 mai> <= 5, P <portail:Boxe anglaise/Sélection biographique/5> <= 4, P <dendromyrmex> <= 3
+ P <cliff Drysdale> <= 5, P <michelle Tyler-Wilson> <= 3, P <discuter:Internationaux de France de Roland-Garros 1957> <= 3
+ P <fr:Derek McGrath> <= 2, P <fr:Dilip Mehta> <= 2, P <en:Unbecoming Age> <= 3
+ P <ligue savoisienne> <= 2, P <découverte et exploration de l'Amérique> <= 3, P <nicolas Lefevre de Lezeau> <= 3
+ P <㉭ilien Méresse> <= 5, P <cherished Moments> <= 4, P <discuter:Éliminatoires de la coupe du monde de football 2010, zone Europe, groupe 7/À faire> <= 2
+ P <canton De Cannes-Centre> <= 5, P <clément XI> <= 2, P <krc:1715 джыл> <= 2
+ P <moulin-Neuf (Ariège)> <= 2, P <claps> <= 4, P <langue occitane> <= 2
+ P <discuter:Bataille de Vitoria/À faire> <= 2, P <pierre François Marie Auguste Dejean> <= 2, P <discuter:Traité de Saint-Pétersbourg de 1805/À faire> <= 2
+ P <mourmansk> <= 5, P <1934> <= 3, L <chiffrement> <= 64
+ P <ichnotropis squamulosa> <= 5, P <phrynosoma solare> <= 5, P <draco maculatus> <= 2
+ P <bataille de Deresgé> <= 4, P <9e Division d'infanterie (Pologne)> <= 5, P <latvian Aviation Regiment> <= 3
+ P <houx> <= 3, P <impasse de la Cuve> <= 3, P <arz:بندر تركمن> <= 3
+ P <margaret Cho> <= 3, P <nds-nl:24 jannewaori> <= 4, P <guillermo Canas> <= 2
+ L <raymond Impanis> <= 535, P <tyler Farrar> <= 2, L <fausto Coppi> <= 492
+ L <rose-Croix> <= 710, P <Église Saint-Médard (Paris)> <= 2, P <monastère de la Croix> <= 2
+ P <discuter:Robert Paturel/À faire> <= 2, L <discuter:Noriko Mizoguchi/À faire> <= 958, P <discuter:Aikikai> <= 2
+ P <battlefield 1942> <= 2, P <parc Montsouris> <= 2, P <warnier> <= 2
+ L <groupe symétrique> <= 381, P <un mathématicien aux prises avec le siècle> <= 2, P <discussion:Raymond Paley> <= 2
+ L <kongoti> <= 970, P <saint John Plantation (Maine)> <= 2, P <discuter:Liste de points extrêmes de la Hongrie> <= 2
+ P <jean-Baptiste Van Mons> <= 2, P <charles-Joseph de Ligne> <= 2, P <lars Fredrik Nilson> <= 2
+ L <discuter:Couvent d'Ursberg/À faire> <= 575, P <conversion des groupes sanguins> <= 2, P <discuter:Prosencéphale basal> <= 2
+ L <26 septembre> <= 861, L <empereur germanique> <= 999, P <francis Arinze> <= 2
+ L <discuter:Rio Chapecó/À faire> <= 806, P <discussion Catégorie:1957 par continent> <= 2, P <discuter:Adige> <= 2
+ P <giorgio Manganelli> <= 2, P <le temps d'un souffle, je m'attarde> <= 2, P <saga des Skjöldungar> <= 2
+ P <vec:2006> <= 2, P <cypress Hill> <= 2, P <arènes du Campo Pequeno> <= 2
+ P <in utroque jure> <= 2, P <roman d'aventures> <= 2, P <mainstockheim> <= 2
+ P <autoroute française A16> <= 2, P <discussion:Canal Cornillon/Article de qualité> <= 2, L <discussion:Boulevard circulaire de la Défense/Article de qualité> <= 920
+ P <1860> <= 2, P <forza Italia> <= 2, P <université Magna Græcia de Catanzaro> <= 2
+ L <zEP> <= 700, P <tQZ> <= 2, P <aLG> <= 2
+ L <cop Shoot Cop> <= 634, P <manhattanville> <= 2, P <discuter:Bard College> <= 2
+ P <discuter:Bronchogramme/À faire> <= 2, P <rétrécissement tricuspide> <= 2, P <discuter:Brachycéphale> <= 2
+ P <première Guerre mondiale> <= 2, P <hörstel> <= 2, L <hornberg> <= 696
+ P <officier de police judiciaire> <= 2, P <discuter:Marge arrière/À faire> <= 2, L <discuter:Marc Barbet/À faire> <= 989
+ P <guerre d'Algérie> <= 2, P <joseph-René Vilatte> <= 2, P <stan Cole> <= 2
+ L <trent Bridge> <= 760, P <robert Swinhoe> <= 2, P <north Ealing (métro de Londres)> <= 2
+ L <cUB> <= 608, P <uBB> <= 2, P <pQD> <= 2
+ P <avi Cohen> <= 2, P <ontinyent> <= 2, P <bad Reputation> <= 2
+ P <géologie de la Colombie> <= 2, P <jackeline Rentería> <= 2, P <discussion:Gabriel García Márquez> <= 2
+ P <discuter:Otoscopie/À faire> <= 2, L <discuter:Os trapèze/À faire> <= 628, P <discuter:Ecca> <= 2
+ P <discuter:Monolithe Vivant> <= 2, P <metamorpho> <= 2, L <discuter:Lena Luthor> <= 999
+ L <robbie Threlfall> <= 662, P <discuter:René Alpsteg> <= 2, P <discuter:Rainer Ernst> <= 2
+ P <coopération décentralisée> <= 2, P <jeune chambre internationale> <= 2, L <hiérarchie dans l'ordre hospitalier du Saint-Esprit> <= 978
+ L <piérie> <= 875, P <discuter:Iliade/À faire> <= 2, P <discuter:Catalogue des œuvres de Chrysippe de Soles> <= 2
+ P <jaseur boréal> <= 2, P <labiostrombus epidromis> <= 2, P <trichie fasciée> <= 2
+ P <uranium> <= 2, P <1882> <= 2, P <sabria> <= 2
+ P <discuter:Trekking> <= 2, P <discuter:Karl Baedeker/À faire> <= 2, P <discussion Catégorie:Tourisme en Ariège> <= 2
+ P <fC Antibes> <= 2, L <1913 en football> <= 465, P <médailles aux championnats du monde de biathlon> <= 2
+ P <discuter:Canton de Quimper-1/À faire> <= 2, P <charles Le Goffic> <= 2, P <discuter:Communauté de communes du Pays de Questembert/À faire> <= 2
+ P <friedrich Wilhelm Ludwig Kraenzlin> <= 2, P <dendrobium pullenianum> <= 2, P <dendrobium annamense> <= 2
+ P <tour de France 1976> <= 2, P <arbre généalogique de la famille Brueghel> <= 2, P <le Lion et le Rat> <= 2
+ P <jean-Henri Fabre> <= 2, P <liste des archevêques d'Auch> <= 2, P <fortifications de Toul> <= 2
+ P <discuter:Quebra/À faire> <= 2, L <discuter:Nunchaku/À faire> <= 903, P <discuter:Kenyu Chinen/À faire> <= 2
+ P <jack McGrath> <= 2, P <darren Turner> <= 2, L <marc Surer> <= 712
+ P <discuter:Andrei Krauchanka/À faire> <= 2, L <antonio Ullo> <= 987, P <discuter:Léone Bertimon/À faire> <= 2
+ P <château Saint-Pierre> <= 2, P <ascalon (homonymie)> <= 2, P <bonchester (fromage)> <= 2
+ L <corée du Nord> <= 842, P <corriere della Sera> <= 2, P <2009 en Cisjordanie> <= 2
+ P <arguenos> <= 2, P <fort Lévis> <= 2, P <esprit (revue)> <= 2
+ L <wikt:裁> <= 703, P <wikt:択> <= 2, P <wikt:敵> <= 2
+ P <discuter:Lee Hughes/À faire> <= 2, P <leonardo de Deus Santos> <= 2, P <discuter:Luigi Sartor/À faire> <= 2
+ L <discussion:Plan Juppé de 1995> <= 858, P <prime de risque> <= 2, L <discussion:Pierre de Duret de Chevry> <= 888
+ L <reignfire> <= 897, L <raphael (Tortues ninja)> <= 914, P <discuter:Griffon (comics)> <= 2
+ L <championnat d'Allemagne de football 1982-1983> <= 780, P <coupe de France de football 1919-1920> <= 2, P <discuter:Calcio Côme> <= 2
+ P <juan Ignacio Otero> <= 2, P <mika Salo> <= 2, P <groot-Abeele> <= 2
+ P <do (Stolac)> <= 2, P <ubla> <= 5, L <volujac (Trebinje)> <= 70, P <commission Internationale pour l'Exploration Scientifique de la Méditerranée> <= 3, P <palanka (Gračac)> <= 3
+ P <2006> <= 1, P <ceb:Étoile-Saint-Cyrice> <= 7, P <championnat de la Réunion de football> <= 3, P <championnat de La Réunion de football 2010> <= 4, P <lucas Damour> <= 2
+ L <catégorie:Flore (nom scientifique)> <= 60, P <catégorie:Croton> <= 7, P <oaxaca> <= 4, L <plante> <= 74, P <ramiro Cruz Durán> <= 2
+ P <bački Vinogradi> <= 3, L <bedő> <= 38, L <beloiannisz> <= 98, L <angelica Bella> <= 62, L <norbert Berényi> <= 97
+ L <catégorie:Commune des Hautes-Pyrénées> <= 90, P <liste des communes des Hautes-Pyrénées> <= 8, P <alexandre François Marie De Beauharnais> <= 5, P <liste des communes des Hautes-Pyrénées> <= 6, L <war:Betbèze> <= 82
+ P <pms:Saint-Didier-sous-Aubenas> <= 2, P <catégorie:Commune de l'Ardèche> <= 6, P <communes de l'Ardèche> <= 10, P <pms:Saint-Didier-sous-Aubenas> <= 4, L <simple:Saint-Didier-sous-Aubenas> <= 97
+ P <andré Kana-Biyik> <= 10, P <andré Kana-Biyik> <= 9, L <andré Lannoy> <= 2, P <championnat d'Espagne de football 1963-1964> <= 4, P <discuter:Jesús Bermúdez/À faire> <= 3
+ P <catégorie:Grands Chelems> <= 9, P <catégorie:Compétition de tennis> <= 7, P <catégorie:Compétition de tennis> <= 6, P <catégorie:Compétition de tennis> <= 3, L <be-x-old:Катэгорыя:Турніры Вялікага шлема (тэніс)> <= 27
+ L <louis Gronowski> <= 35, L <jean-Paul Bonnaire> <= 48, P <gérard Desarthe> <= 4, L <gilbert Weissberg> <= 68, L <simon Rayman> <= 83
+ L <j. Franlin Bell> <= 86, P <adna R. Chaffee> <= 6, P <j. Franlin Bell> <= 2, P <samuel Young> <= 3, L <john C. Bates> <= 35
+ P <billy Evans (basketball)> <= 5, L <keith Erickson> <= 59, P <jack Eskridge> <= 10, P <jo Jo English> <= 5, L <mike Ertel> <= 11
+ L <catégorie:Piccadilly line> <= 71, P <cockfosters (métro de Londres)> <= 10, P <catégorie:Piccadilly line> <= 5, L <catégorie:Station du métro de Londres> <= 30, L <gan:阿羅茲固羅戶站> <= 48
+ L <mercredi> <= 62, P <oliver Brachfeld> <= 9, P <edwin Baily> <= 10, P <saint Tropez> <= 6, L <festival de la fiction TV> <= 58
+ P <bob Schafer> <= 10, L <jean-Pierre Faye> <= 60, P <1903> <= 3, L <jean Rouxel (1530-1586)> <= 95, P <peter Kormos> <= 3
+ P <laurent Lessard> <= 4, P <discuter:Tabora/À faire> <= 4, L <christian Belleau> <= 59, P <12 janvier> <= 8, L <soirée Canadienne> <= 40
+ L <open du Canada 1998> <= 41, L <open du Canada 2001> <= 85, P <leipzig> <= 2, L <open du Canada 1994> <= 69, L <challenge Bell 2002> <= 51
+ L <catégorie:Collection de peintures françaises du Louvre> <= 86, P <catégorie:Peinture néoclassique> <= 8, P <catégorie:Peinture néoclassique> <= 5, L <catégorie:Œuvre conservée au Metropolitan Museum of Art> <= 38, L <catégorie:Portrait par Jacques-Louis David> <= 58
+ P <king River> <= 9, P <discuter:Kingaroy/À faire> <= 9, P <discuter:Kingston (Queensland)> <= 3, L <discuter:Kingston (Queensland)/À faire> <= 12, L <discuter:Kingaroy> <= 7
+ P <michelle Bernier> <= 7, L <hameau italien> <= 75, P <casola Valsenio> <= 5, P <latium> <= 4, L <palazzuolo sul Senio> <= 30
+ P <ceb:Marmanhac> <= 6, P <souviens-toi... l'été dernier> <= 10, L <royal Gold Medal> <= 64, P <john Churchill> <= 9, P <john Lord> <= 2
+ L <1965 au cinéma> <= 14, L <le Lit à deux places> <= 41, P <1957 au cinéma> <= 3, L <1959 au cinéma> <= 85, L <il Carro armato dell'8 settembre> <= 98
+ L <saga> <= 66, L <poètes cycliques> <= 81, L <suite romanesque> <= 59, L <troie> <= 17, L <catégorie:cycle littéraire> <= 98
+ P <rafd Zyad Almasri> <= 10, P <fantask> <= 1, P <the Punisher (film)> <= 10, P <discuter:Médusa> <= 4, P <joe Robertson> <= 2
+ P <lecanogaster> <= 10, P <lepadichthys> <= 4, L <lepadogaster> <= 4, L <chorisochismus> <= 59, L <eckloniaichthys> <= 22
+ P <x64> <= 4, P <x64> <= 8, P <noyau windows NT> <= 10, L <hardware abstraction layer> <= 71, L <mode long> <= 58
+ P <théâtre national populaire> <= 10, L <théâtre national de la Colline> <= 58, L <heiner Müller> <= 69, P <distichites> <= 8, L <dea Loher> <= 14
+ L <gilbert Cette> <= 36, P <simple:Mario Kart: Super Circuit> <= 5, P <guillaume Bouisset> <= 6, P <gilbert Brownstone> <= 9, L <gilbert Bonvin> <= 5
+ P <dombeya ×cayeuxii> <= 10, L <islanders de New York> <= 89, P <㉱uipe des États-Unis de hockey sur glace> <= 3, L <alex Pietrangelo> <= 59, L <t.J. Oshie> <= 95
+ P <john Steinbeck> <= 3, P <john Steinbeck> <= 5, P <en:Félix_SesÃºmaga> <= 4, L <léon Tolstoï> <= 47, L <fall on Your Knees> <= 73
+ L <㉴ats-Unis> <= 42, L <texas> <= 26, P <stéphane Marelli> <= 10, P <㉴ats-Unis> <= 7, L <bpy:কোরয়েল কাউন্টি, টেক্সাস> <= 80
+ P <nGC 7331> <= 8, P <il ragazzo delle mani d'acciaio> <= 3, P <1983 au cinéma> <= 10, L <i ragazzi del 42° plotone> <= 96, L <l'ultima partita> <= 28
+ P <maggie Nagle> <= 10, P <raynald Guay> <= 5, L <1768> <= 24, P <bas-Rhin> <= 3, P <salle Stengel> <= 2
+ P <1957 au cinéma> <= 9, L <les Incorruptibles (série télévisée)> <= 14, L <1962 au cinéma> <= 77, L <les Rôdeurs de la plaine> <= 80, L <platinum High School> <= 25
+ P <㉱uipe cycliste NGC Medical-OTC Industria Porte> <= 4, P <marguerite Anthiaume> <= 6, P <jeanne-Jacquette Aubier> <= 7, P <alberto J. Aguayo> <= 6, L <madeleine Aubry> <= 82
+ P <comté de Stevens (Washington)> <= 1, P <comté de Ferry> <= 1, P <arapahoe (Wyoming)> <= 3, P <fort Pierce> <= 7, P <comté de Washakie> <= 2
+ P <conie> <= 1, L <montoire-sur-le-Loir> <= 98, L <braye (rivière)> <= 15, P <stanislas (bande dessinée)> <= 8, L <gratte-loup> <= 50
+ L <acala> <= 57, P <aberdeen (Hong Kong)> <= 6, L <académie chinoise des sciences> <= 24, P <modèle:Unicode chinois> <= 5, L <24 saisons de l'année lunaire> <= 16
+ P <jacques Metehem> <= 10, L <1993> <= 73, P <1991> <= 1, P <lycosa musgravei> <= 8, L <cent Francs Panthéon (1982)> <= 64
+ L <discussion Utilisateur:Milena> <= 60, L <guillot> <= 78, P <al-Tarif> <= 5, P <rudolf Hauschka> <= 4, L <user:Joaquín Martínez Rosado> <= 15
+ L <e.H. Calvert> <= 86, P <fonds de tiroir> <= 10, P <the Reaping (film, 1913)> <= 7, P <the Reaping (film, 1913)> <= 6, L <the Reaping (film, 1915)> <= 74
+ P <cinquième Armée américaine> <= 8, P <mérite militaire chérifien> <= 8, L <general Motors Corporation> <= 88, P <general Motors Corporation> <= 3, L <hawaiian Pineapple Company> <= 80
+ L <atiu (circonscription)> <= 90, P <ngatupuna Matepi> <= 7, P <penrhyn (circonscription)> <= 3, L <mangaia (circonscription)> <= 15, L <㉬ections générales aux îles Cook en 1968> <= 25
+ L <24 heures chrono> <= 72, L <comic> <= 38, L <1963 au cinéma> <= 69, P <oxos> <= 9, L <30 jours de nuit> <= 85
+ P <hong Kong> <= 1, P <wong Jing> <= 5, P <jean Jacques Désandrouin> <= 6, P <rien eu à pondre d'inédit> <= 10, L <joe Ma> <= 77
+ L <pierre Cotignon de la Charnaye> <= 50, P <discuter:Pierre Broussel/À faire> <= 5, L <pierre Borel> <= 87, L <discuter:Pierre Cureau de La Chambre/À faire> <= 99, L <discuter:Pierre Clairambault/À faire> <= 25
+ P <théorie de la diffraction sur un cristal> <= 3, P <spectrométrie de fluorescence X> <= 7, L <eXAFS> <= 3, P <spectrométrie photoélectronique UV> <= 8, L <spectrométrie d'absorption des rayons X> <= 15
+ P <discuter:She's the Man/À faire> <= 9, L <1535> <= 63, P <1520> <= 7, L <jules III> <= 75, L <catégorie:Naissance en 1501> <= 11
+ P <un nom pour un autre> <= 2, L <2006> <= 61, P <kaminey> <= 8, P <cercle de Yélimané> <= 8, L <aagey Se Right> <= 99
+ L <saïan Supa Crew> <= 63, P <1988 au cinéma> <= 6, P <craig Armstrong> <= 9, P <1994 à la télévision> <= 8, L <day One> <= 60
+ P <giusepe Michelozzo> <= 10, P <discuter:Insuffisance hépato-cellulaire/À faire> <= 5, P <discuter:Thymoanaleptique> <= 2, P <discuter:Ralph Greenson/À faire> <= 7, P <discuter:Trimébutine/À faire> <= 2
+ L <lebedev> <= 721, L <lagochine> <= 223, L <kouznetsov> <= 980, L <koutiakov> <= 103, L <medvedkov> <= 829
+ L <discuter:Championnat d'Italie de football D2 1971-1972/À faire> <= 289, P <discuter:Championnat d'Estonie de football 1999/À faire> <= 6, P <championnat de Chypre de football 2007-2008> <= 7, P <discuter:Championnat d'Irlande du Nord de football 1938-1939/À faire> <= 8, P <discuter:Carlos Carvalhal/À faire> <= 2
+ P <encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers> <= 10, P <jean-François-Henri Collot> <= 1, P <club sportif de Menzel Bouzelfa> <= 5, P <ceb:Curienne> <= 6, P <ceb:Beaucouzé> <= 3
+ P <yoan Schnee> <= 5, P <habib Bourguiba> <= 8, P <turquie> <= 2, L <syrie> <= 563, L <chambre des conseillers (Tunisie)> <= 54
+ L <haute-Goulaine> <= 650, P <baldersheim> <= 4, P <1854> <= 7, P <régions françaises> <= 6, L <orschwihr> <= 68
+ P <tyrone Marshall> <= 7, L <germaine Mason> <= 829, P <gretel (yacht)> <= 6, P <nicole Mitchell> <= 2, L <osteopilus wilderi> <= 90
+ P <coentreprise> <= 4, P <fageralm> <= 5, P <discuter:Comics Code Authority> <= 9, P <discuter:Comarca (Brésil)> <= 3, L <discuter:Commission internationale de juristes/À faire> <= 431
+ L <redman> <= 850, P <pharrell Williams> <= 6, L <50 Cent> <= 673, P <ludacris> <= 1, L <delinquents (group)> <= 951
+ P <daniel Scioli> <= 2, P <ingeborg Markgraf-Dannenberg> <= 10, P <union civique radicale> <= 10, P <mornac (Charente)> <= 9, L <celso Jaque> <= 274
+ P <als:Lindau (Bodensee)> <= 7, L <john Rutland> <= 501, L <gerry O'Hara> <= 329, P <projet:Restauration lien rouge/par distance/Exceptions/D/4> <= 5, P <leon Sinden> <= 2

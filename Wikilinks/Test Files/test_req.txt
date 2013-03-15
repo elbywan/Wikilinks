@@ -1,0 +1,3 @@
+﻿ P <choline acétyltransférase> <= 3
+ P <choline acétyltransférase> <= 2
+ L <CBP histone acétyl transférase> <= 5

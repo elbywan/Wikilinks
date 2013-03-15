@@ -1,0 +1,9 @@
+Release/
+.*
+
+# excepts
+!.gitignore
+
+Wikilinks/neo4j*
+Wikilinks/libs
+

@@ -1,0 +1,16 @@
+#Wikilinks - options
+#Wed Mar 23 09:42:02 CET 2011
+file_Index=Test Files/graph_output_index.txt
+debug=true
+parse_capacity=2000
+request_memfirst=false
+parse_nbThreads=4
+output_Responses=Test Files/reponses-10.new.txt
+parse_PPT=2
+input_Requests=Test Files/requetes-10.txt
+file_Timer=Test Files/requetes_timer.txt
+parse_maxPages=-1
+file_Trimmed=Test Files/graph_output_integers.txt
+file_Content=Wikilinks/Test Files/frwiki-latest-pages-articles.xml
+file_firstStep=Test Files/graph_output.txt
+char_encoding=UTF-8
